@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository": "SaatvikShukla/android_kernel_sony_msm8974",
+    "repository": "CyanogenMod/android_kernel_sony_msm",
     "target_path": "kernel/sony/msm",
-    "revision": "master"
+    "revision": "cm-13.0"
   },
   {
     "remote": "github",
